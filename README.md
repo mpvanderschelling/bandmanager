@@ -1,5 +1,3 @@
-![Bessa Research Group](img/bessa_group_logo.png)
-
 # Band Manager
 
 | [**GitHub**](https://github.com/mpvanderschelling/bandmanager)
@@ -24,14 +22,8 @@ Application to create invoices, quotations and contracts for bands.
 **Authors**:
 - Martin van der Schelling ([martin@vanderschelling.com](mailto:martin@vanderschelling.com))
 
-**Authors afilliation:**
-- Delft University of Technology (Bessa Research Group)
-
 **Maintainer:**
 - Martin van der Schelling ([martin@vanderschelling.com](mailto:martin@vanderschelling.com))
-
-**Maintainer afilliation:**
-- Delft University of Technology (Bessa Research Group)
 
 
 ## Getting started
