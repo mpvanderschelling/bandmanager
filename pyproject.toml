@@ -14,6 +14,7 @@ classifiers = [
   "Programming Language :: Python :: 3"
 ]
 dependencies = [
+  "relatorio>=0.11.1"
 ]
 description = "Application to create invoices, quotations and contracts for bands."
 license = {text = "BSD-3-Clause"}
@@ -45,6 +46,9 @@ tests = [
   "pytest>=8.4.1",
   "pytest-cov>=6.2.1"
 ]
+
+[project.scripts]
+dkb_manager = "bandmanager.__main__:main"
 
 [project.urls]
 bugs = "https://github.com/mpvanderschelling/bandmanager/issues"
