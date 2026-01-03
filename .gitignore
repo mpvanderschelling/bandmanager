@@ -216,3 +216,6 @@ site/
 
 notebooks/
 output/
+
+# Templates
+src/bandmanager/templates/*
