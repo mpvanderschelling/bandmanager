@@ -1,7 +1,13 @@
 # Band Manager
 
+<div align="center">
+  <img src="img/deklittenband_logo.png" alt="De Klittenband logo" width="80%">
+</div>
+
+
 | [**GitHub**](https://github.com/mpvanderschelling/bandmanager)
 | [**Documentation**](https://bandmanager.readthedocs.io/en/latest/)
+|
 
 Application to create invoices, quotations and contracts for bands.
 

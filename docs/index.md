@@ -1,4 +1,4 @@
-![Bessa Research Group](img/bessa_group_logo.png)
+![De Klittenband logo](img/deklittenband_logo.png)
 
 # Band Manager
 

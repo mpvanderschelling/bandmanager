@@ -43,7 +43,7 @@ class UI:
     def __init__(self):
         self.root = tk.Tk()
         self.root.geometry("700x1200")
-        self.root.title("De Klittenband Manager")
+        self.root.title("Band Manager")
 
         self.main_panel = tk.Frame(self.root)
         self.main_panel.columnconfigure(0, weight=1)

@@ -12,16 +12,12 @@ from .constants import JSON_FILES_FOLDER_NAME, ROOT_OUTPUT_DIR
 
 #                                                        Authorship and Credits
 # =============================================================================
-__author__ = "Martin van der Schelling (mpvanderschelling@gmail.com)"
+__author__ = "Martin van der Schelling (martin@vanderschelling.com)"
 __credits__ = ["Martin van der Schelling"]
 __status__ = "Stable"
 # =============================================================================
 #
 # =============================================================================
-
-
-def create_gig_dir(name: str) -> None:
-    (ROOT_OUTPUT_DIR / name).mkdir(exist_ok=True, parents=True)
 
 
 def save_json(info_dict: dict):
