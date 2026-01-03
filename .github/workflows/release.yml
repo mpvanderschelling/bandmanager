@@ -18,8 +18,8 @@ jobs:
                       cp ${{ github.workspace }}/pyproject.toml ./pyproject.toml
                       uv sync --extra tests --no-install-project --inexact
                       uv run --no-sync pytest
-                  pypi-user: "mpvanderschelling"
+                  pypi-user: mpvanderschelling
                   pypi-token: ${{ secrets.pypi_api_token }}
-                  github-user: "mpvanderschelling"
+                  github-user: mpvanderschelling
                   github-token: ${{ github.token }}
                   allow-first-release: false
